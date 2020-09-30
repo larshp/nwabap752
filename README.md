@@ -30,8 +30,12 @@ docker cp TD752SP04part11.rar nwabap752:/tmp/
 ```
 
 attach and run `/tmp/install.sh`
+
 rm -rf nwabap
+
 password = Down1oad
+
+su npladm, startsap
 
 docker ps -a
 
